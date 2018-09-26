@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Revalia');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+.current {
+  display: block;
+}
+
+* {
+  position: relative;
+  letter-spacing: 1.4px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: red;
+  border: 3px solid transparent;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+  padding: 3px;
+}
+
+body {
+  font-size: 14px;
+  line-height: 1.2;
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  color: white;
+  font-family: "Roboto Slab", monospace, sans-serif;
+}
+
+strong, em {
+  font-family: "Revalia", "Times New Roman", serif;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+.App {
+  display: flex;
+  flex-flow: row;
+  width: 100%;
+  height: 100%;
+}
+
+.half{
+  width: 44%;
+  height: 100%;
+}
+
+.player{
+  display: flex;
+  width: 50%;
+  height: 5%;
+}

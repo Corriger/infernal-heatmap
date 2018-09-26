@@ -1,12 +1,9 @@
 import React, { Component } from 'react'
 import devilMap from './../data.js'
+import styled from 'styled-components'
 
-const List = styled.div`
-  display: flex;
-  flex-flow: column wrap;
-  justify-content: space-between;
-  width: 100px;
-  border: 1px solid black;
+const List = styled.li`
+  font-size: 1.3em
 `
 
 class LocationList extends Component {
@@ -14,10 +11,10 @@ class LocationList extends Component {
     return (
         devilMap.map((object, i) =>
         <List>
-          { this.object.name }
+          { object.name }
         </List>
       ));
   }
 }
 
-export default LocationList;
+export default LocationList

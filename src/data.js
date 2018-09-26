@@ -7,7 +7,7 @@ const devilMap = [
     "latitude": "-36.02038071",
     // horizontal, east n west
     "longitude": "-68.01891816",
-    "url": "./img/dumary-island.jpg",
+    "url": "Test",
     "landmarks": [
       "Village of the Protectorate",
       "Ancient Clocktower",
@@ -27,7 +27,7 @@ const devilMap = [
     "latitude": "41.8781136",
     // horizontal, east n west
     "longitude": "-87.62979819999998",
-    "url": "./img/chicago.jpg",
+    "url": "./../img/chicago.jpg",
     "landmarks": [
       "Orchestra Hall",
       "Millennium Park",
@@ -48,7 +48,7 @@ const devilMap = [
     "latitude": "40.7127",
     // horizontal, east n west
     "longitude": "-74.0059",
-    "url": "./img/nyc.jpg",
+    "url": "./../img/nyc.jpg",
     "landmarks": [
       "Chrysler Building",
       "Central Park",
@@ -69,7 +69,7 @@ const devilMap = [
     "latitude": "25.76414325",
     // horizontal, east n west
     "longitude": "-50.16404017",
-    "url": "./img/fortuna.jpg",
+    "url": "./../img/fortuna.jpg",
     "landmarks": [
       "Fortuna Castle",
       "Lamina Peak",
@@ -92,7 +92,7 @@ const devilMap = [
     "latitude": "42.40651701",
     // horizontal, east n west
     "longitude": "-82.7441548",
-    "url": "./img/enamel.jpg",
+    "url": "./../img/enamel.jpg",
     "landmarks": [
       "City Bridge",
       "Sands Gases",
@@ -110,7 +110,7 @@ const devilMap = [
     "latitude": "27.950575",
     // horizontal, east n west
     "longitude": "-82.45717760000002",
-    "url": "./img/temen-ni-gru.jpg",
+    "url": "./../img/temen-ni-gru.jpg",
     "landmarks": [
       "Temen-ni-Gru",
       "Love Planet",
@@ -131,7 +131,7 @@ const devilMap = [
     "latitude": "40.01237293",
     // horizontal, east n west
     "longitude": "-3.54470276",
-    "url": "./img/vigrid.jpg",
+    "url": "./../img/vigrid.jpg",
     "landmarks": [
       "Ruins of Luna and Sol",
       "City Ruins",
@@ -150,7 +150,7 @@ const devilMap = [
     "latitude": "40.01237293",
     // horizontal, east n west
     "longitude": "-3.54470276",
-    "url": "./img/isla-del-sol.jpg",
+    "url": "./../img/isla-del-sol.jpg",
     "landmarks": [
       "Ruins of Luna and Sol",
       "City Ruins",
@@ -169,7 +169,7 @@ const devilMap = [
     "latitude": "40.01237293",
     // horizontal, east n west
     "longitude": "-3.54470276",
-    "url": "./img/noatun.jpg",
+    "url": "./../img/noatun.jpg",
     "landmarks": [
       "Ruins of Luna and Sol",
       "City Ruins",
